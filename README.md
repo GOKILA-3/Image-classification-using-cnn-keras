@@ -40,7 +40,6 @@ Softmax activation for multi-class classification
 **Dataset**
 
 Ensure you have a dataset of various animal images.
-Modify the dataset path in the notebook accordingly.
 
 **Results**
 
